@@ -1,4 +1,4 @@
-# 🤖 Smart Academic AI Assistant
+# 🤖 GENERATIVE AI
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 ![Generative AI](https://img.shields.io/badge/Generative-AI-orange?style=for-the-badge)
@@ -171,16 +171,7 @@ Well-structured prompts help the model generate **more precise and professional 
 
 ---
 
-# 📂 Project Structure
 
-```
-Smart-Academic-AI-Assistant
-│
-├── Lab1.ipynb
-├── Lab1_Assignment.ipynb
-├── README.md
-└── requirements.txt
-```
 
 ---
 
@@ -189,13 +180,13 @@ Smart-Academic-AI-Assistant
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/Smart-Academic-AI-Assistant.git
+git clone https://github.com/GeethanjaliM25/GENERATIVE-AI
 ```
 
 Navigate to the project directory:
 
 ```
-cd Smart-Academic-AI-Assistant
+cd GENERATIVE-AI
 ```
 
 Install required dependencies:
