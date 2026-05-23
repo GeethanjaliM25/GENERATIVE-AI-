@@ -9,7 +9,7 @@
 
 A **Generative AI powered academic assistant** built using **Python and Gemini API** to automate common academic tasks such as generating official communications and structured study notes.
 
-This repository contains implementations developed as part of the **Generative AI Skill Development Lab**..
+This repository contains implementations developed as part of the **Generative AI Skill Development Lab**...
 
 ---
 
