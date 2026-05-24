@@ -25,7 +25,7 @@ The system accepts structured inputs from users and generates **context-aware ac
 
 # 🧠 What is Generative AI?
 
-**Generative AI** is a field of Artificial Intelligence that focuses on creating **new content** such as:
+**Generative AI** is a field of Artificial Intelligence that focuses on creating **new content** such as
 
 * 📝 Text
 * 🖼️ Images
