@@ -15,7 +15,7 @@ This repository contains implementations developed as part of the **Generative A
 
 # 📘 Project Overview
 
-Academic communication and study preparation are important tasks for students and faculty. Writing notices, emails, reminders, and preparing study notes manually can be time-consuming.
+Academic communication and study preparation are important tasks for students and faculty. Writing notices, emails, reminders, and preparing study notes manually can be time-consuming
 
 This project demonstrates how **Generative AI can automate these tasks** by generating structured and professional content using **Large Language Models (LLMs)**
 
