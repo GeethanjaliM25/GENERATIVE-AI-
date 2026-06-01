@@ -19,7 +19,7 @@ Academic communication and study preparation are important tasks for students an
 
 This project demonstrates how **Generative AI can automate these tasks** by generating structured and professional content using **Large Language Models (LLMs)**
 
-The system accepts structured inputs from users and generates **context-aware academic outputs**. 
+The system accepts structured inputs from users and generates **context-aware academic outputs**.
 
 ---
 
