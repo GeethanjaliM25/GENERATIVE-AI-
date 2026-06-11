@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Project-Active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-A **Generative AI powered academic assistant** built using **Python and Gemini API** to automate common academic tasks such as generating official communications and structured study notes.
+A **Generative AI powered academic assistant** built using **Python and Gemini API** to automate common academic tasks such as generating official communications and structured study notes .
  
 This repository contains implementations developed as part of the **Generative AI Skill Development Lab**
 
