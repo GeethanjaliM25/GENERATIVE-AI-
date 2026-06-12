@@ -11,7 +11,7 @@ A **Generative AI powered academic assistant** built using **Python and Gemini A
  
 This repository contains implementations developed as part of the **Generative AI Skill Development Lab**
 
----
+--- 
 
 # 📘 Project Overview
 
