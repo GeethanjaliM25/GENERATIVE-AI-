@@ -1,4 +1,4 @@
-# 🤖 GENERATIVE AI           
+# 🤖 GENERATIVE AI            
     
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 ![Generative AI](https://img.shields.io/badge/Generative-AI-orange?style=for-the-badge)
