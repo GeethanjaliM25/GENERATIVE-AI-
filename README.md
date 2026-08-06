@@ -13,7 +13,7 @@ This repository contains implementations developed as part of the **Generative A
 
 --- 
 
-# 📘 Project Overview 
+# 📘 Project Overview   
 
 Academic communication and study preparation are important tasks for students and faculty. Writing notices, emails, reminders, and preparing study notes manually can be time-consuming.
 
